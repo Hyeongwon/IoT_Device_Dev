@@ -117,7 +117,7 @@ int main() {
 #endif
 
 #if 0
-//8. 
+//8. 서보
 #include "mbed.h"
 PwmOut servo(PWM_OUT);
 int main() {
