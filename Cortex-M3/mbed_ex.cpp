@@ -98,7 +98,7 @@ int main() {
 #endif
 
 #if 0
-//7. ºÎÀú€
+//7. ë¶€ì €
 #include "mbed.h"
 const int melody[] = {
 262, 294, 330, 349, 392, 440, 494, 523,
@@ -117,7 +117,7 @@ int main() {
 #endif
 
 #if 0
-//8. ¼­º¸ 
+//8. 
 #include "mbed.h"
 PwmOut servo(PWM_OUT);
 int main() {
