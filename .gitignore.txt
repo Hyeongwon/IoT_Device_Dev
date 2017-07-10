@@ -1,2 +1,2 @@
-/Cortex-M3/BuildLog.log
-/Cortex-M3/QuickStart.dep
+Cortex-M3/BuildLog.log
+Cortex-M3/QuickStart.dep
