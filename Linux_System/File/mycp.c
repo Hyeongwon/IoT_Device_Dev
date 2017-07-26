@@ -16,7 +16,7 @@ int main(int argc, char **argv) {
     int fd_ori, fd_cp;
     int size;
 
-    if(argc != 3) {
+   if(argc != 3) {
 
         printf("Usage : ./file_info [file_name]\n");
         exit(0);
