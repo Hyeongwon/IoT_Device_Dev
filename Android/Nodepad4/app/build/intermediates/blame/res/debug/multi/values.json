@@ -1,0 +1,258 @@
+[
+    {
+        "outputFile": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 44,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 37,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 37,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 43,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 43,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 47,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 47,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 48,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 420,
+                        "endColumn": 45,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 48,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 48,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 49,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 49,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 39,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 39,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

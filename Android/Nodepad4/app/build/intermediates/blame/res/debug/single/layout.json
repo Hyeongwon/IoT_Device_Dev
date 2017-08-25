@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_list.xml",
+        "source": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\layout\\note_list.xml"
+    },
+    {
+        "merged": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_row.xml",
+        "source": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\layout\\note_row.xml"
+    },
+    {
+        "merged": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_edit.xml",
+        "source": "D:\\lecture\\AndroidBasic_Studio\\lab\\ExampleNotePad\\Nodepad4\\app\\src\\main\\res\\layout\\note_edit.xml"
+    }
+]
