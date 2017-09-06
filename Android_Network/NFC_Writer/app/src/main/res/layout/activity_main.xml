@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.mds.network.nfc_writer.MainActivity"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:layout_marginBottom="15dp"
+        android:text="Text type" />
+
+    <EditText
+        android:id="@+id/textEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text=""
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/TextWriterBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:text="Write Text"
+        android:onClick="write_text"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:layout_marginBottom="15dp"
+        android:text="URL Type" />
+
+    <EditText
+        android:id="@+id/urlEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="http://www." />
+
+    <Button
+        android:id="@+id/urlWriteBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WriteUrl"
+        android:onClick="write_url"/>
+</LinearLayout>
