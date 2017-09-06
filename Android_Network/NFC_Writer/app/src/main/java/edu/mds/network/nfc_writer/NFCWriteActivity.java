@@ -100,7 +100,7 @@ public class NFCWriteActivity extends Activity {
     protected void onPause() {
 
         super.onPause();
-        //TODO foregoroung function disable;
+        //TODO foreground function disable;
         nfcAdapter.disableForegroundDispatch(this);
     }
 
