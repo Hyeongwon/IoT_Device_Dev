@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="edu.mds.network.ble_scan.MainActivity">
+
+
+    <EditText
+        android:id="@+id/macEtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="5C:31:3E:C1:1D:08" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/scanStrBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="startScan"
+            android:text="Start Scan" />
+
+        <Button
+            android:id="@+id/scanStopBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="stopScan"
+            android:text="Stop Scan" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/conBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="conGattServer"
+        android:text="connect BLE Device" />
+
+    <TextView
+        android:id="@+id/infoTv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Status : " />
+
+</LinearLayout>
